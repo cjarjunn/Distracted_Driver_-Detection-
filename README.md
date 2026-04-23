@@ -12,7 +12,7 @@ leakage in random splits.
 pip install -r requirements.txt
 
 ## Dataset
-State Farm Distracted Driver Detection dataset — available on Kaggle:
+State Farm Distracted Driver Detection dataset  available on Kaggle:
 https://www.kaggle.com/c/state-farm-distracted-driver-detection
 
 ## Notebooks
