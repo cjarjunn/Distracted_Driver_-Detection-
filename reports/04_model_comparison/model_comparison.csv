@@ -1,0 +1,5 @@
+Model,Top 1 Acc ,Macro F1,Macro Precision,Macro Recall,Mean AUC,Inf. Time (ms),Size (MB)
+YOLOv8n,92.3,0.922,0.9243,0.9238,0.9941,4.87,2.8
+ResNet18,84.22,0.8391,0.8436,0.8425,0.9762,0.08,42.7
+MobileNetV3,85.47,0.8558,0.8678,0.8522,0.9796,0.24,5.9
+EfficientNet-B0,89.89,0.8949,0.8996,0.8995,0.9868,0.36,15.6
